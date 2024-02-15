@@ -16,7 +16,7 @@ This is a classification project which focuses on classifying (and predicting) f
 10. [Statistical Inference](https://github.com/wlfrag/SC1015/blob/main/SC1015_DS_Mini_project_live.ipynb) - Data-driven insights can be found here
 11. [Ethical Consideration](https://github.com/wlfrag/SC1015/blob/main/SC1015_DS_Mini_project_live.ipynb) - Additional moral concerns
 12. [Intelligent Decision](https://github.com/wlfrag/SC1015/blob/main/SC1015_DS_Mini_project_live.ipynb) - Additional insights, recommendations for future-proofing strategies
-  
+ 
 
 ## Problem Definition
 To predict impending future terrorism events and generating possible future events based on historic data.
