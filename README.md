@@ -1,8 +1,8 @@
-# SC1015 Project
+# FutureTerrorPredictor
 
 ## About
 
-This is a project for Nanyang Technological University's SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on classifying and predicting future terrorism using dataset from [Global Terrorism Database](https://www.start.umd.edu/gtd/). For detailed walkthrough, please refer to the [source code](https://github.com/wlfrag/SC1015/blob/main/SC1015_DS_Mini_project_live.ipynb) and the below:
+This is a classification project which focuses on classifying (and predicting) future terrorism using dataset from [Global Terrorism Database](https://www.start.umd.edu/gtd/). For detailed walkthrough, please refer to the [source code] and the below:
 
 1. [Data Preparation & Cleaning](https://github.com/wlfrag/SC1015/blob/main/SC1015_DS_Mini_project_live.ipynb) - Data extraction, Label encoding, Omitting null values, Restructuring of data into dictionary format 
 2. [Exploratory Data Analysis & Data Visualisation](https://github.com/wlfrag/SC1015/blob/main/SC1015_DS_Mini_project_live.ipynb) - Waffle map showing proportion of attacks by terrorist group
@@ -16,13 +16,7 @@ This is a project for Nanyang Technological University's SC1015 (Introduction to
 10. [Statistical Inference](https://github.com/wlfrag/SC1015/blob/main/SC1015_DS_Mini_project_live.ipynb) - Data-driven insights can be found here
 11. [Ethical Consideration](https://github.com/wlfrag/SC1015/blob/main/SC1015_DS_Mini_project_live.ipynb) - Additional moral concerns
 12. [Intelligent Decision](https://github.com/wlfrag/SC1015/blob/main/SC1015_DS_Mini_project_live.ipynb) - Additional insights, recommendations for future-proofing strategies
-  
-#### Contributors
-
-1. [Ryan (wlfrag) · GitHub](https://github.com/wlfrag/SC1015)
-  - Data Extraction, Machine Learning, Analytic Visualization  
-2. [Vaishob (vaishob) · GitHub](https://github.com/vaishob)
-  - Data Preparation, Data Analysis, Data Visualization, Data-driven insights
+ 
 
 ## Problem Definition
 To predict impending future terrorism events and generating possible future events based on historic data.
